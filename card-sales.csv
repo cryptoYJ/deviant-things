@@ -1,4 +1,6 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK101-24","Ryder Dallas","6UST","Common","2022-04-23T09:28:47Z","terra1jh876grj729q8tuxadefudklv66sq079myycyh","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK101.png"
+"OTK103-529","Jerick","6UST","Common","2022-04-23T09:27:14Z","terra1jh876grj729q8tuxadefudklv66sq079myycyh","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK103.png"
 "OTK114-91","Reinhold","13UST","Common","2022-04-23T09:08:03Z","terra1jh876grj729q8tuxadefudklv66sq079myycyh","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK114.png"
 "OTK084-4","Mr. Dunkel","25UST","Uncommon","2022-04-23T09:00:00Z","terra1jh876grj729q8tuxadefudklv66sq079myycyh","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK084.gif"
 "OTK089-183","Giuseppe Mori","25UST","Uncommon","2022-04-23T08:51:45Z","terra1cqk7jkdsdv54glf89n7dns75mewf78xzzpaecj","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK089.gif"
