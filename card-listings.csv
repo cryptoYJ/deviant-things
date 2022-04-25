@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK040-4","Marduk Urshan","1000000UST","Rare","2022-04-25T23:26:28Z","terra1qkeqe8wx998p3ajmr7s570g7nt8lywffzjwswp","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK040.gif"
 "OTK062-195","The Warren","35UST","Uncommon","2022-04-25T23:15:24Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK062.gif"
 "OTK034-166","Claw","99UST","Rare","2022-04-25T23:06:49Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK034.gif"
 "OTK019-9","Namonaki Yuki","4500UST","Legendary","2022-04-25T22:56:18Z","terra1quth6563wpu5sqvu4zl64m53wkgnq35t49ra9f","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK019.gif"
@@ -98,4 +99,3 @@
 "OTK033-162","Spilling Nick","1000UST","Rare","2022-04-25T13:23:14Z","terra1n3jvedcdyhwge02zn65dgdw2rgq6zhj6kgaetv","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK033.gif"
 "OTK048-4","Landvættir","65UST","Rare","2022-04-25T12:55:35Z","terra15h4trnh3gegagfnw0su3xflj8f53r2pmqerzgj","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK048.gif"
 "OTK043-7","Lucio Fernández","60UST","Rare","2022-04-25T12:55:10Z","terra15h4trnh3gegagfnw0su3xflj8f53r2pmqerzgj","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK043.gif"
-"OTK141-35","Yellow Battleflag","777UST","Uncommon","2022-04-25T12:44:38Z","terra13zvt94944je5r3rg4gq9cfae0usrn0g0c9pjck","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK141.gif"
