@@ -1,4 +1,6 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK028-9","C","3000UST","Legendary","2022-04-26T03:10:45Z","terra1qx0ufgm40wvfvws9v9cwck0rn5ayusey83sm3z","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK028.gif"
+"OTK025-9","Aléc Binder","11500UST","Legendary","2022-04-26T03:08:18Z","terra1qx0ufgm40wvfvws9v9cwck0rn5ayusey83sm3z","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK025.gif"
 "OTK038-103","Santiago Pieldelobo","85UST","Rare","2022-04-26T01:04:20Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK038.gif"
 "OTK159-246","Home Stereo","4UST","Common","2022-04-26T01:03:40Z","terra1hrs5czhq4c9pv7clpl05k9r4f9tlcytx979qa7","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK159.png"
 "OTK158-251","Kevlar","4UST","Common","2022-04-26T01:03:13Z","terra1hrs5czhq4c9pv7clpl05k9r4f9tlcytx979qa7","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK158.png"
@@ -97,5 +99,3 @@
 "OTK037-19","Thanata","60UST","Rare","2022-04-25T14:06:12Z","terra1e7pa6283h3nzeuungxqht2z5wetdc7vs4rh4tq","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK037.gif"
 "OTK041-19","Dusk","60UST","Rare","2022-04-25T14:05:52Z","terra1e7pa6283h3nzeuungxqht2z5wetdc7vs4rh4tq","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK041.gif"
 "OTK033-27","Spilling Nick","50UST","Rare","2022-04-25T14:05:06Z","terra1e7pa6283h3nzeuungxqht2z5wetdc7vs4rh4tq","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK033.gif"
-"OTK059-12","Ilyich","60UST","Rare","2022-04-25T14:04:12Z","terra1e7pa6283h3nzeuungxqht2z5wetdc7vs4rh4tq","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK059.gif"
-"OTK043-16","Lucio Fernández","70UST","Rare","2022-04-25T14:03:45Z","terra1e7pa6283h3nzeuungxqht2z5wetdc7vs4rh4tq","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK043.gif"
