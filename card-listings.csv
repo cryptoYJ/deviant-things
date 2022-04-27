@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK017-1","Stonehand","3100UST","Legendary","2022-04-27T17:49:18Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK017.gif"
 "OTK124-8","Airshutter","2695UST","Legendary","2022-04-27T17:31:44Z","terra1ay3gl5rmftydzx6jfne59t04qjfvct9whet4gm","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK124.gif"
 "OTK145-50","Spy-flies","100UST","Uncommon","2022-04-27T17:17:37Z","terra10ftz027h282hs0ceczdq8324s6r26xdppcwcns","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK145.gif"
 "OTK090-215","Adil Nasseri","20UST","Uncommon","2022-04-27T17:16:19Z","terra10ftz027h282hs0ceczdq8324s6r26xdppcwcns","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK090.gif"
@@ -98,4 +99,3 @@
 "OTK139-208","Time Waster","13UST","Uncommon","2022-04-26T18:23:25Z","terra1at236lyq0zn9qda8yefv9v3m75tu4a4exyzm4q","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK139.gif"
 "OTK122-606","Cisneros","7UST","Common","2022-04-26T18:22:59Z","terra1at236lyq0zn9qda8yefv9v3m75tu4a4exyzm4q","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK122.png"
 "OTK121-606","Arthur LaRue","7UST","Common","2022-04-26T18:22:39Z","terra1at236lyq0zn9qda8yefv9v3m75tu4a4exyzm4q","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK121.png"
-"OTK103-606","Jerick","12UST","Common","2022-04-26T18:22:18Z","terra1at236lyq0zn9qda8yefv9v3m75tu4a4exyzm4q","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK103.png"
