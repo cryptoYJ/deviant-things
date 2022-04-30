@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK021-1","San Amaro","7999UST","Legendary","2022-04-30T09:24:05Z","terra1prga3yuqnk4plcuddvcydysqwl57he3du5v92r","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK021.gif"
 "OTK136-85","B-37 Razer","99UST","Rare","2022-04-30T08:11:28Z","terra1e5davancd53swja8wslc444ts4jx9khjrlsvrt","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK136.gif"
 "OTK078-162","Mürag","49UST","Uncommon","2022-04-30T08:10:56Z","terra1e5davancd53swja8wslc444ts4jx9khjrlsvrt","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK078.gif"
 "OTK065-159","Poncho & Montgomery","49UST","Uncommon","2022-04-30T08:10:29Z","terra1e5davancd53swja8wslc444ts4jx9khjrlsvrt","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK065.gif"
@@ -98,4 +99,3 @@
 "OTK064-97","Sadiq","18UST","Uncommon","2022-04-29T07:39:42Z","terra1gu4z5h4k6umudeayggdaa7tpskcufuvxq8u6k8","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK064.gif"
 "OTK077-159","Grunting Grunts","20UST","Uncommon","2022-04-29T07:05:37Z","terra1tqexepxd0mtttwj45nqymgrewgh647693epxjp","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK077.gif"
 "OTK064-159","Sadiq","20UST","Uncommon","2022-04-29T07:05:17Z","terra1tqexepxd0mtttwj45nqymgrewgh647693epxjp","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK064.gif"
-"OTK062-159","The Warren","20UST","Uncommon","2022-04-29T07:05:04Z","terra1tqexepxd0mtttwj45nqymgrewgh647693epxjp","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK062.gif"
