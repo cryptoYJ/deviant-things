@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK017-8","Stonehand","2888UST","Legendary","2022-04-30T17:09:03Z","terra1l394wqtkf3mnulrrsv8lxtu3vc2p3y8q7cujry","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK017.gif"
 "OTK036-131","Hadrianus","149UST","Rare","2022-04-30T16:34:46Z","terra14ww79dld9gxuy6kxwd8gv9q4d7hm6u5zg09qrn","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK036.gif"
 "OTK046-84","Hyun-ki","4999.99UST","Rare","2022-04-30T15:31:23Z","terra1jsrvxa8talaa0j6as9laz2xmt30z8lgjhrqev3","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK046.gif"
 "OTK138-111","MS-021","499.99UST","Rare","2022-04-30T13:31:25Z","terra1jsrvxa8talaa0j6as9laz2xmt30z8lgjhrqev3","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK138.gif"
@@ -98,4 +99,3 @@
 "OTK135-74","Double Boomer","80UST","Rare","2022-04-29T07:42:41Z","terra1gu4z5h4k6umudeayggdaa7tpskcufuvxq8u6k8","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK135.gif"
 "OTK119-276","Sargento Cárdenas","4.8UST","Common","2022-04-29T07:42:07Z","terra1gu4z5h4k6umudeayggdaa7tpskcufuvxq8u6k8","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK119.png"
 "OTK117-276","Leon Radić","7UST","Common","2022-04-29T07:41:41Z","terra1gu4z5h4k6umudeayggdaa7tpskcufuvxq8u6k8","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK117.png"
-"OTK112-276","Fyodor Volkov","6.5UST","Common","2022-04-29T07:41:21Z","terra1gu4z5h4k6umudeayggdaa7tpskcufuvxq8u6k8","https://ipfs.io/ipfs/QmWyoBAPnfBngHnp39dmCT8J9ferBL7cVaqqRoBnP5wyC6/OTK112.png"
