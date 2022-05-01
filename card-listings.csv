@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK050-36","Murder of Crows","150UST","Rare","2022-05-01T06:17:32Z","terra1pwj4g0k3jul5jsvpame45sgkv9fxfeuz4f7jjz","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK050.gif"
 "OTK158-446","Kevlar","5UST","Common","2022-05-01T04:57:48Z","terra1sd6a6hugfkyafeek4cw32777cmy6usmd7rnn97","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK158.png"
 "OTK032-8","Dominika Dudek","5000UST","Legendary","2022-05-01T04:57:22Z","terra1sd6a6hugfkyafeek4cw32777cmy6usmd7rnn97","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK032.gif"
 "OTK130-4","Mother","4500UST","Legendary","2022-05-01T04:35:29Z","terra1mm546vrfgvr8qnqgllkfxtf2kdww0j0mu33vuz","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK130.gif"
@@ -98,4 +99,3 @@
 "OTK079-176","Baranov","20UST","Uncommon","2022-04-29T20:27:02Z","terra1n7qg98fu8lg09gm4e42y8ctcwpcskttxkxc9zc","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK079.gif"
 "OTK069-19","Mitrovic","15UST","Uncommon","2022-04-29T20:14:06Z","terra1q7jh4q8d8rhzt6fzftp7a8ltq0nlxdegm89exu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK069.gif"
 "OTK107-39","Vex Nation","6UST","Common","2022-04-29T20:13:39Z","terra1q7jh4q8d8rhzt6fzftp7a8ltq0nlxdegm89exu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK107.png"
-"OTK096-38","Kelsey K","6UST","Common","2022-04-29T20:12:55Z","terra1q7jh4q8d8rhzt6fzftp7a8ltq0nlxdegm89exu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK096.png"
