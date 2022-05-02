@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK125-9","The Panther","2300UST","Legendary","2022-05-02T10:07:07Z","terra1e36v2qppage85kwj0hsydq9altf9x7q5972v8w","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK125.gif"
 "OTK046-84","Hyun-ki","109.99UST","Rare","2022-05-02T09:31:20Z","terra1jsrvxa8talaa0j6as9laz2xmt30z8lgjhrqev3","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK046.gif"
 "OTK081-39","Petrorian","55UST","Uncommon","2022-05-02T07:33:12Z","terra1rm8vhy9sdswrfuxyfp8t5g40j59pmctc2mmh7z","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK081.gif"
 "OTK038-4","Santiago Pieldelobo","76UST","Rare","2022-05-02T07:15:55Z","terra1p98nd4gud5fpk2wzjzj8wjc78gg7e4d6z6vh8j","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK038.gif"
@@ -98,4 +99,3 @@
 "OTK031-1","William Abioye","2000UST","Legendary","2022-05-01T16:23:50Z","terra18fmktrl4ccq3c6uw5m7lyxe0mf9mt2ruenrkvz","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK031.gif"
 "OTK020-7","Florencia Wolff","2000UST","Legendary","2022-05-01T15:53:51Z","terra18kw3ylrar8cxrakjhlysfunwvf2mm5d9fe7p8u","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK020.gif"
 "OTK156-342","Red Council","6UST","Common","2022-05-01T14:46:38Z","terra1rpwhyf04j4vd2e2d0eyn6ju8fay6snyasq8n3m","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK156.png"
-"OTK105-353","Mubarak","6UST","Common","2022-05-01T14:44:49Z","terra1rpwhyf04j4vd2e2d0eyn6ju8fay6snyasq8n3m","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK105.png"
