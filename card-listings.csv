@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK052-97","Cleo Pierce","80UST","Rare","2022-05-02T07:04:33Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK052.gif"
 "OTK052-37","Cleo Pierce","89UST","Rare","2022-05-02T06:53:14Z","terra1fma0fg0tryjj7pzdeh4jgrpvyf633tagxk6las","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK052.gif"
 "OTK045-39","Mangoose","147UST","Rare","2022-05-02T06:52:35Z","terra1fma0fg0tryjj7pzdeh4jgrpvyf633tagxk6las","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK045.gif"
 "OTK043-35","Lucio Fernández","50UST","Rare","2022-05-02T06:51:30Z","terra1fma0fg0tryjj7pzdeh4jgrpvyf633tagxk6las","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK043.gif"
@@ -98,4 +99,3 @@
 "OTK054-55","Alia Oz","40UST","Rare","2022-05-01T12:31:47Z","terra1hrs5czhq4c9pv7clpl05k9r4f9tlcytx979qa7","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK054.gif"
 "OTK057-92","General Tanaka","150UST","Rare","2022-05-01T07:22:32Z","terra14laelyrjjf5k7t576qrvt8z5atwp69ar2lrpwj","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK057.gif"
 "OTK069-190","Mitrovic","10UST","Uncommon","2022-05-01T07:20:29Z","terra14laelyrjjf5k7t576qrvt8z5atwp69ar2lrpwj","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK069.gif"
-"OTK050-36","Murder of Crows","150UST","Rare","2022-05-01T06:17:32Z","terra1pwj4g0k3jul5jsvpame45sgkv9fxfeuz4f7jjz","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK050.gif"
