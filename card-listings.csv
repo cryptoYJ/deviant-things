@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK054-39","Alia Oz","50UST","Rare","2022-05-02T18:19:30Z","terra1j8xtknstj0qjypaul9u6gp7v7ef07furxdtmqs","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK054.gif"
 "OTK078-168","Mürag","55UST","Uncommon","2022-05-02T17:28:04Z","terra14mpvp24qd6rdthw2akhwqhqvvtq32tcfej2dgt","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK078.gif"
 "OTK132-134","Dancing Dazer","140UST","Rare","2022-05-02T17:26:43Z","terra14mpvp24qd6rdthw2akhwqhqvvtq32tcfej2dgt","https://ipfs.io/ipfs/QmPd3aBCCKALHhQbByQhDcDbZVP5wPrEgGa4ZWW7zbL4jB/OTK132.gif"
 "OTK025-7","Aléc Binder","9700UST","Legendary","2022-05-02T17:25:23Z","terra14mpvp24qd6rdthw2akhwqhqvvtq32tcfej2dgt","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK025.gif"
@@ -98,4 +99,3 @@
 "OTK158-36","Kevlar","3UST","Common","2022-05-01T18:38:27Z","terra1q7jh4q8d8rhzt6fzftp7a8ltq0nlxdegm89exu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK158.png"
 "OTK162-42","Tacos","3UST","Common","2022-05-01T18:38:02Z","terra1q7jh4q8d8rhzt6fzftp7a8ltq0nlxdegm89exu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK162.png"
 "OTK163-43","Panopticon","5UST","Common","2022-05-01T18:36:18Z","terra1q7jh4q8d8rhzt6fzftp7a8ltq0nlxdegm89exu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK163.png"
-"OTK153-41","Retirement Plan","7UST","Common","2022-05-01T18:35:52Z","terra1q7jh4q8d8rhzt6fzftp7a8ltq0nlxdegm89exu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK153.png"
