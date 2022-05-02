@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK016-2","Sredoje Petrović","3000UST","Legendary","2022-05-02T22:52:16Z","terra1e7pa6283h3nzeuungxqht2z5wetdc7vs4rh4tq","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK016.gif"
 "OTK106-322","Al-Hafeez","14UST","Common","2022-05-02T18:50:28Z","terra1vlmtmgqp60jkhgcn0ez86jgxz9l2xm00nty4xl","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK106.png"
 "OTK164-243","Tear Gas Launcher","7.17UST","Common","2022-05-02T18:50:15Z","terra1vlmtmgqp60jkhgcn0ez86jgxz9l2xm00nty4xl","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK164.png"
 "OTK115-322","Qui Long","9UST","Common","2022-05-02T18:49:26Z","terra1vlmtmgqp60jkhgcn0ez86jgxz9l2xm00nty4xl","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK115.png"
@@ -98,4 +99,3 @@
 "OTK086-18","Shinjuku Gang","20UST","Uncommon","2022-05-01T23:23:51Z","terra1q7jh4q8d8rhzt6fzftp7a8ltq0nlxdegm89exu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK086.gif"
 "OTK028-5","C","2200UST","Legendary","2022-05-01T22:03:45Z","terra1296uga9vaxr4573zaw65d3dvyp9ea0rxr3yk4g","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK028.gif"
 "OTK143-12","First Grader","95UST","Uncommon","2022-05-01T22:01:35Z","terra180cx8j4uvgp36sy36qzg3v2ke7j8uaepzdyp8v","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK143.gif"
-"OTK135-65","Double Boomer","75UST","Rare","2022-05-01T22:00:50Z","terra180cx8j4uvgp36sy36qzg3v2ke7j8uaepzdyp8v","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK135.gif"
