@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK104-613","Josie Sankoh","3.25UST","Common","2022-05-03T12:24:58Z","terra1ku45w64x28mzd6289nymqdc5pcqtf4whyqzaph","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK104.png"
 "OTK100-613","Amir Elnaiem","14.5UST","Common","2022-05-03T12:24:18Z","terra1ku45w64x28mzd6289nymqdc5pcqtf4whyqzaph","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK100.png"
 "OTK099-613","Eryn Eryn","3.5UST","Common","2022-05-03T12:23:36Z","terra1ku45w64x28mzd6289nymqdc5pcqtf4whyqzaph","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK099.png"
 "OTK162-285","Tacos","4.99UST","Common","2022-05-03T12:02:29Z","terra1f3855gmeqefp2mtt2mc7w9604nnwpzhhsh5w0d","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK162.png"
@@ -98,4 +99,3 @@
 "OTK135-35","Double Boomer","70UST","Rare","2022-05-02T05:20:41Z","terra1r52kr9ysf80g4xy80s54vpj57dmpcslmpjxc4n","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK135.gif"
 "OTK093-127","Vole","45UST","Common","2022-05-02T05:19:28Z","terra1r52kr9ysf80g4xy80s54vpj57dmpcslmpjxc4n","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK093.png"
 "OTK091-46","Cassie Hayes","12UST","Uncommon","2022-05-02T05:18:24Z","terra1r52kr9ysf80g4xy80s54vpj57dmpcslmpjxc4n","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK091.gif"
-"OTK085-46","Peshmerga Rebel Cell","21UST","Uncommon","2022-05-02T05:17:50Z","terra1r52kr9ysf80g4xy80s54vpj57dmpcslmpjxc4n","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK085.gif"
