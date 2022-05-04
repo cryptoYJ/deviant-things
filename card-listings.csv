@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK048-78","Landvættir","74UST","Rare","2022-05-04T15:25:27Z","terra17w6qn5hvd92kxe2zmtn74s6626mp4ek7dncwgh","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK048.gif"
 "OTK102-395","Milly & Gilly","20UST","Common","2022-05-04T13:55:31Z","terra1h7splyl599juawvp4dug84ax60yenrw59uka9n","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK102.png"
 "OTK161-284","Molotov Cocktail","20UST","Common","2022-05-04T13:54:03Z","terra1h7splyl599juawvp4dug84ax60yenrw59uka9n","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK161.png"
 "OTK157-363","Scarlet Strainer","20UST","Common","2022-05-04T13:53:42Z","terra1h7splyl599juawvp4dug84ax60yenrw59uka9n","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK157.png"
@@ -498,4 +499,3 @@
 "OTK028-5","C","3100UST","Legendary","2022-04-28T09:30:53Z","terra1296uga9vaxr4573zaw65d3dvyp9ea0rxr3yk4g","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK028.gif"
 "OTK020-7","Florencia Wolff","2850UST","Legendary","2022-04-28T08:54:06Z","terra18kw3ylrar8cxrakjhlysfunwvf2mm5d9fe7p8u","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK020.gif"
 "OTK023-6","Azrael","13000UST","Legendary","2022-04-28T08:22:55Z","terra174j4dztce5a8knqf909lsztxfszdl7hm5v4kdt","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK023.gif"
-"OTK125-9","The Panther","2500UST","Legendary","2022-04-28T07:32:37Z","terra1e36v2qppage85kwj0hsydq9altf9x7q5972v8w","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK125.gif"
