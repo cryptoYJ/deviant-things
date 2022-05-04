@@ -1,4 +1,6 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK060-40","Spider Wolff","90UST","Rare","2022-05-04T08:18:14Z","terra1hl2udllf2reaewhzeguk4pq0ww6na0eyyznl7c","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK060.gif"
+"OTK037-44","Thanata","55UST","Rare","2022-05-04T08:17:53Z","terra1hl2udllf2reaewhzeguk4pq0ww6na0eyyznl7c","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK037.gif"
 "OTK108-558","Lenny Boi","14UST","Common","2022-05-04T07:30:46Z","terra1glhk92sdcjn4puc5mf2u8x03zdzkyxzruxtzax","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK108.png"
 "OTK067-195","Sofia Dunn","15UST","Uncommon","2022-05-04T07:30:20Z","terra1glhk92sdcjn4puc5mf2u8x03zdzkyxzruxtzax","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK067.gif"
 "OTK058-56","Isabel Bennett","42UST","Rare","2022-05-04T06:31:19Z","terra1saaa27hzjaa4wqkpd86d85nqha45hkr7hsdamh","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK058.gif"
@@ -497,5 +499,3 @@
 "OTK087-110","Hired Ops Team","40UST","Uncommon","2022-04-28T00:14:11Z","terra1syjzyaztglua6ftgmn8rfgl4je6w4ll0mf9wv0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK087.gif"
 "OTK072-110","Nasrin","40UST","Uncommon","2022-04-28T00:13:11Z","terra1syjzyaztglua6ftgmn8rfgl4je6w4ll0mf9wv0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK072.gif"
 "OTK068-110","Falstaff","29UST","Uncommon","2022-04-28T00:12:16Z","terra1syjzyaztglua6ftgmn8rfgl4je6w4ll0mf9wv0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK068.gif"
-"OTK063-110","Dr. Lee Park","40UST","Uncommon","2022-04-28T00:11:07Z","terra1syjzyaztglua6ftgmn8rfgl4je6w4ll0mf9wv0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK063.gif"
-"OTK045-53","Mangoose","195UST","Rare","2022-04-28T00:10:03Z","terra1syjzyaztglua6ftgmn8rfgl4je6w4ll0mf9wv0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK045.gif"
