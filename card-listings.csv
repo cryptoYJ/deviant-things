@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK142-25","Darkling Rover","50UST","Uncommon","2022-05-04T11:20:05Z","terra1jsrvxa8talaa0j6as9laz2xmt30z8lgjhrqev3","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK142.gif"
 "OTK054-71","Alia Oz","49.99UST","Rare","2022-05-04T11:00:22Z","terra1jsrvxa8talaa0j6as9laz2xmt30z8lgjhrqev3","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK054.gif"
 "OTK136-108","B-37 Razer","30UST","Rare","2022-05-04T10:52:15Z","terra1h7splyl599juawvp4dug84ax60yenrw59uka9n","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK136.gif"
 "OTK102-395","Milly & Gilly","10UST","Common","2022-05-04T10:51:30Z","terra1h7splyl599juawvp4dug84ax60yenrw59uka9n","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK102.png"
@@ -498,4 +499,3 @@
 "OTK051-109","Colonel Galkin","85UST","Rare","2022-04-28T03:30:58Z","terra1ed8d4wzrwfe5ssu4uh2w4px68mmap3r9f54lep","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK051.gif"
 "OTK036-156","Hadrianus","120UST","Rare","2022-04-28T03:29:50Z","terra1ed8d4wzrwfe5ssu4uh2w4px68mmap3r9f54lep","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK036.gif"
 "OTK127-8","St. Trophime","1070UST","Legendary","2022-04-28T01:31:10Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK127.gif"
-"OTK045-114","Mangoose","150UST","Rare","2022-04-28T00:55:08Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK045.gif"
