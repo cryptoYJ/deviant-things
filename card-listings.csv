@@ -1,4 +1,6 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK033-29","Spilling Nick","98UST","Rare","2022-05-04T02:47:25Z","terra1vaemlx0w6m4d4pzyuctd7mclyrqstu2tehx6w2","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK033.gif"
+"OTK112-130","Fyodor Volkov","6.39UST","Common","2022-05-04T02:45:28Z","terra1vaemlx0w6m4d4pzyuctd7mclyrqstu2tehx6w2","https://ipfs.io/ipfs/QmWyoBAPnfBngHnp39dmCT8J9ferBL7cVaqqRoBnP5wyC6/OTK112.png"
 "OTK106-100","Al-Hafeez","13UST","Common","2022-05-04T02:44:14Z","terra1vaemlx0w6m4d4pzyuctd7mclyrqstu2tehx6w2","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK106.png"
 "OTK023-3","Azrael","6000UST","Legendary","2022-05-04T01:20:16Z","terra1fjx0jsz6djwdhmj0huepz9vzmq6q85yjl07yxn","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK023.gif"
 "OTK023-2","Azrael","9500UST","Legendary","2022-05-04T00:27:29Z","terra1exw8kvva3s7yqjkeakunagmnjc2r95h0w2ekvy","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK023.gif"
@@ -497,5 +499,3 @@
 "OTK122-577","Cisneros","5UST","Common","2022-04-27T23:03:18Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK122.png"
 "OTK160-441","Bull Spikes","6UST","Common","2022-04-27T23:02:31Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK160.png"
 "OTK016-2","Sredoje Petrović","4000UST","Legendary","2022-04-27T23:02:19Z","terra1e7pa6283h3nzeuungxqht2z5wetdc7vs4rh4tq","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK016.gif"
-"OTK121-558","Arthur LaRue","5UST","Common","2022-04-27T23:01:53Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK121.png"
-"OTK069-196","Mitrovic","15UST","Uncommon","2022-04-27T22:55:21Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK069.gif"
