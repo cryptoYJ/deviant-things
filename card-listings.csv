@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK059-59","Ilyich","50UST","Rare","2022-05-04T17:50:43Z","terra173v92eu6fes6rjsr9fqdkftlzqtu9avee0gjsu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK059.gif"
 "OTK050-5","Murder of Crows","60UST","Rare","2022-05-04T17:20:42Z","terra15p7ym62me849zcjp6mcarhe9kz2vunglvs4lr4","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK050.gif"
 "OTK036-4","Hadrianus","79UST","Rare","2022-05-04T17:19:58Z","terra15p7ym62me849zcjp6mcarhe9kz2vunglvs4lr4","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK036.gif"
 "OTK037-7","Thanata","50UST","Rare","2022-05-04T17:19:26Z","terra15p7ym62me849zcjp6mcarhe9kz2vunglvs4lr4","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK037.gif"
@@ -498,4 +499,3 @@
 "OTK052-33","Cleo Pierce","93UST","Rare","2022-04-28T13:28:16Z","terra13hrags6022htn590l7uyrpdkegy28gqclnh3wt","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK052.gif"
 "OTK051-38","Colonel Galkin","84UST","Rare","2022-04-28T13:27:13Z","terra13hrags6022htn590l7uyrpdkegy28gqclnh3wt","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK051.gif"
 "OTK048-39","Landvættir","79UST","Rare","2022-04-28T13:26:26Z","terra13hrags6022htn590l7uyrpdkegy28gqclnh3wt","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK048.gif"
-"OTK129-1","Watchbear","3600UST","Legendary","2022-04-28T13:26:00Z","terra1uy3yqel8rg7ysnytza7sq9ausvl9ch54qtnytn","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK129.gif"
