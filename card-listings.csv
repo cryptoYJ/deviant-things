@@ -1,4 +1,6 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK030-8","Johnny Patriot","5000UST","Legendary","2022-05-05T00:59:05Z","terra1rq8gg78xzly9clvvrykse6znmxtjw4ung5jwp3","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK030.gif"
+"OTK123-7","Lyudmila","4000UST","Legendary","2022-05-05T00:57:26Z","terra1rq8gg78xzly9clvvrykse6znmxtjw4ung5jwp3","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK123.gif"
 "OTK018-1","Breeze","3500UST","Legendary","2022-05-04T22:24:49Z","terra1uqtuvrucq8wjnnqdqljnkehdrg88p2gcn3ckn0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK018.gif"
 "OTK077-55","Grunting Grunts","31.69UST","Uncommon","2022-05-04T22:14:39Z","terra1cqk7jkdsdv54glf89n7dns75mewf78xzzpaecj","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK077.gif"
 "OTK041-67","Dusk","53UST","Rare","2022-05-04T20:50:36Z","terra14rhawx74jpx7m6795g74v3syar3c5shefexufv","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK041.gif"
@@ -497,5 +499,3 @@
 "OTK159-163","Home Stereo","10UST","Common","2022-04-28T22:00:52Z","terra13ln5ljkpw0nfysjrg7p8wxyuynuv2rwduqly0v","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK159.png"
 "OTK056-41","Three Fists","225UST","Rare","2022-04-28T22:00:05Z","terra13ln5ljkpw0nfysjrg7p8wxyuynuv2rwduqly0v","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK056.gif"
 "OTK162-464","Tacos","2UST","Common","2022-04-28T20:52:13Z","terra1xhpny0s0rvz36n7unwj5nctq25g0d82qvjrck2","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK162.png"
-"OTK155-331","Yaba","2UST","Common","2022-04-28T20:50:21Z","terra1xhpny0s0rvz36n7unwj5nctq25g0d82qvjrck2","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK155.png"
-"OTK155-331","Yaba","2UST","Common","2022-04-28T20:45:17Z","terra1xhpny0s0rvz36n7unwj5nctq25g0d82qvjrck2","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK155.png"
