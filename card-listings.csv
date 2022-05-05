@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK025-8","Aléc Binder","8700UST","Legendary","2022-05-05T09:59:55Z","terra109vgn84td32clya98t6zucz46yzrp6uk9u2mge","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK025.gif"
 "OTK090-161","Adil Nasseri","25UST","Uncommon","2022-05-05T08:55:41Z","terra1qfv2wgrzp20g87d6tr07w60uq0ah3ncqzwu5qx","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK090.gif"
 "OTK087-161","Hired Ops Team","30UST","Uncommon","2022-05-05T08:54:41Z","terra1qfv2wgrzp20g87d6tr07w60uq0ah3ncqzwu5qx","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK087.gif"
 "OTK081-161","Petrorian","25UST","Uncommon","2022-05-05T08:52:00Z","terra1qfv2wgrzp20g87d6tr07w60uq0ah3ncqzwu5qx","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK081.gif"
@@ -498,4 +499,3 @@
 "OTK160-135","Bull Spikes","5UST","Common","2022-04-29T05:21:35Z","terra188ct47x6caf272hwvkn76sqq67wdhwncstzxm8","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK160.png"
 "OTK157-209","Scarlet Strainer","5UST","Common","2022-04-29T05:17:12Z","terra1z750x39dggcttzk6mejpngaw9fkp9csumev7ez","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK157.png"
 "OTK094-166","Starry Louise","6UST","Common","2022-04-29T05:15:08Z","terra188ct47x6caf272hwvkn76sqq67wdhwncstzxm8","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK094.png"
-"OTK095-166","Weye Tahiel","8UST","Common","2022-04-29T05:14:49Z","terra188ct47x6caf272hwvkn76sqq67wdhwncstzxm8","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK095.png"
