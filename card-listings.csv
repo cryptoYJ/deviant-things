@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK138-129","MS-021","90UST","Rare","2022-05-05T19:39:00Z","terra1y69lkgtw0jfzz5fshvedzhp7lt40t4h0sm3tzd","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK138.gif"
 "OTK057-48","General Tanaka","120UST","Rare","2022-05-05T17:48:09Z","terra173v92eu6fes6rjsr9fqdkftlzqtu9avee0gjsu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK057.gif"
 "OTK128-8","Azrael's Needles","3500UST","Legendary","2022-05-05T16:19:58Z","terra188u3jdy0u4dtqkq82232dd4dpx6l7mah3z7jkr","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK128.gif"
 "OTK073-189","Finn","89UST","Uncommon","2022-05-05T15:57:02Z","terra1uy3yqel8rg7ysnytza7sq9ausvl9ch54qtnytn","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK073.gif"
@@ -498,4 +499,3 @@
 "OTK064-159","Sadiq","20UST","Uncommon","2022-04-29T07:05:17Z","terra1tqexepxd0mtttwj45nqymgrewgh647693epxjp","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK064.gif"
 "OTK062-159","The Warren","20UST","Uncommon","2022-04-29T07:05:04Z","terra1tqexepxd0mtttwj45nqymgrewgh647693epxjp","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK062.gif"
 "OTK034-125","Claw","50UST","Rare","2022-04-29T07:04:39Z","terra1tqexepxd0mtttwj45nqymgrewgh647693epxjp","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK034.gif"
-"OTK042-70","The Bannerwasps","50UST","Rare","2022-04-29T07:04:19Z","terra1tqexepxd0mtttwj45nqymgrewgh647693epxjp","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK042.gif"
