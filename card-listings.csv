@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK019-8","Namonaki Yuki","3500UST","Legendary","2022-05-06T15:32:29Z","terra1f25x7zfxqn86qeexplw6jj5nhspzsc2r3xv7y3","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK019.gif"
 "OTK013-4","Ouroboros","5000UST","Legendary","2022-05-06T14:29:16Z","terra1m3sl9qea92km6mqm02yqxfygn8g9acl8wzj6x7","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK013.gif"
 "OTK159-427","Home Stereo","3.8UST","Common","2022-05-06T14:27:06Z","terra1gyujj0jy9cjfxquwkad8du2u77aq80elju9ruz","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK159.png"
 "OTK157-558","Scarlet Strainer","2.5UST","Common","2022-05-06T14:26:27Z","terra1gyujj0jy9cjfxquwkad8du2u77aq80elju9ruz","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK157.png"
@@ -498,4 +499,3 @@
 "OTK054-33","Alia Oz","60UST","Rare","2022-04-29T19:43:51Z","terra1zmyz8rdltmslwkyzjespkrydk7eusmvh70pnn6","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK054.gif"
 "OTK034-55","Claw","60UST","Rare","2022-04-29T19:43:31Z","terra1zmyz8rdltmslwkyzjespkrydk7eusmvh70pnn6","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK034.gif"
 "OTK035-72","María del Tránsito","60UST","Rare","2022-04-29T19:43:12Z","terra1zmyz8rdltmslwkyzjespkrydk7eusmvh70pnn6","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK035.gif"
-"OTK021-4","San Amaro","2500UST","Legendary","2022-04-29T19:28:51Z","terra18dtn3mcsxx4zxvf7vc5vauump5mm2c58xru4ew","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK021.gif"
