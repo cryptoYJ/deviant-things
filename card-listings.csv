@@ -1,4 +1,6 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK062-102","The Warren","199UST","Uncommon","2022-05-08T09:24:27Z","terra1ka0erq5ua8e8qepph477c0lrq687tkxxexzyza","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK062.gif"
+"OTK061-102","El-Baz","15UST","Uncommon","2022-05-08T09:23:26Z","terra1ka0erq5ua8e8qepph477c0lrq687tkxxexzyza","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK061.gif"
 "OTK097-570","Feste","14.5UST","Common","2022-05-08T08:52:55Z","terra1h0wy2kkekpq2nqft89uaugyumulpj0x08mhk5e","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK097.png"
 "OTK100-570","Amir Elnaiem","9.7UST","Common","2022-05-08T08:43:31Z","terra1h0wy2kkekpq2nqft89uaugyumulpj0x08mhk5e","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK100.png"
 "OTK129-8","Watchbear","777UST","Legendary","2022-05-08T08:17:42Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK129.gif"
@@ -497,5 +499,3 @@
 "OTK031-1","William Abioye","3900UST","Legendary","2022-04-30T17:31:08Z","terra18fmktrl4ccq3c6uw5m7lyxe0mf9mt2ruenrkvz","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK031.gif"
 "OTK017-8","Stonehand","2888UST","Legendary","2022-04-30T17:09:03Z","terra1l394wqtkf3mnulrrsv8lxtu3vc2p3y8q7cujry","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK017.gif"
 "OTK036-131","Hadrianus","149UST","Rare","2022-04-30T16:34:46Z","terra14ww79dld9gxuy6kxwd8gv9q4d7hm6u5zg09qrn","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK036.gif"
-"OTK046-84","Hyun-ki","4999.99UST","Rare","2022-04-30T15:31:23Z","terra1jsrvxa8talaa0j6as9laz2xmt30z8lgjhrqev3","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK046.gif"
-"OTK138-111","MS-021","499.99UST","Rare","2022-04-30T13:31:25Z","terra1jsrvxa8talaa0j6as9laz2xmt30z8lgjhrqev3","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK138.gif"
