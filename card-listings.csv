@@ -1,4 +1,5 @@
 "tokenId","cardName","price","rarity","timestamp","sender","image"
+"OTK129-8","Watchbear","777UST","Legendary","2022-05-10T21:31:21Z","terra1uym5gel62w0g5smmdcfg8auzt3s3nsyuah3aw0","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK129.gif"
 "OTK020-7","Florencia Wolff","700UST","Legendary","2022-05-10T19:55:39Z","terra18kw3ylrar8cxrakjhlysfunwvf2mm5d9fe7p8u","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK020.gif"
 "OTK148-12","Escape Pod","85UST","Uncommon","2022-05-10T16:10:49Z","terra1vk5rtmtqhmzdyngz4nqv677vlll9ykw6z257l9","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK148.gif"
 "OTK134-59","Dethroner","33UST","Rare","2022-05-10T16:08:47Z","terra1vk5rtmtqhmzdyngz4nqv677vlll9ykw6z257l9","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK134.gif"
@@ -498,4 +499,3 @@
 "OTK061-46","El-Baz","26UST","Uncommon","2022-05-02T01:41:11Z","terra1v6wamcg4qhf3982v25zzcv4srdjdhekp00se4p","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK061.gif"
 "OTK154-49","Acid Tank","3.5UST","Common","2022-05-01T23:33:00Z","terra1q7jh4q8d8rhzt6fzftp7a8ltq0nlxdegm89exu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK154.png"
 "OTK158-30","Kevlar","3.5UST","Common","2022-05-01T23:32:18Z","terra1q7jh4q8d8rhzt6fzftp7a8ltq0nlxdegm89exu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK158.png"
-"OTK157-47","Scarlet Strainer","4UST","Common","2022-05-01T23:31:52Z","terra1q7jh4q8d8rhzt6fzftp7a8ltq0nlxdegm89exu","https://ipfs.io/ipfs/Qmaeq7QTLjqkNZFG8j4VJnZXSLQQrHk375Z1ACPMGrotRZ/OTK157.png"
